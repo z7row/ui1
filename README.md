@@ -13,13 +13,6 @@ A modern, single-page landing experience built with **Next.js App Router**, **Ta
 - 🧩 **Clean architecture** — Hooks, color data, and components are separated by responsibility.
 - 🧪 **Type-safe** — Full TypeScript coverage with a strict `ColorName` union.
 
-## 🖼️ Screenshots
-
-| Desktop | Mobile |
-| --- | --- |
-| ![Desktop](./public/screenshots/home.png) | ![Mobile](./public/screenshots/mobile.png) |
-
-> _Add your own screenshots under `public/screenshots/` to see them here._
 
 ## 🛠️ Tech Stack
 
